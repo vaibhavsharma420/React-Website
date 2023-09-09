@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Website/static/css/main.d0398c89.css",
+    "main.js": "/React-Website/static/js/main.daee62d8.js",
+    "static/media/hhh.gif": "/React-Website/static/media/hhh.d1a6e25823a60f03f3c8.gif",
+    "static/media/WebDev.avif": "/React-Website/static/media/WebDev.6ef8140fb60a3043fe8f.avif",
+    "static/media/Marketing.avif": "/React-Website/static/media/Marketing.b14f4d4aa8395404122c.avif",
+    "static/media/StockMarket.avif": "/React-Website/static/media/StockMarket.b0ef15ad03a9455eb9c7.avif",
+    "index.html": "/React-Website/index.html",
+    "main.d0398c89.css.map": "/React-Website/static/css/main.d0398c89.css.map",
+    "main.daee62d8.js.map": "/React-Website/static/js/main.daee62d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0398c89.css",
+    "static/js/main.daee62d8.js"
+  ]
+}
